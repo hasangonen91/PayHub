@@ -606,11 +606,10 @@ const styles = StyleSheet.create({
   },
   visaCard: {
     backgroundColor: '#1A1F71',
-    backgroundGradient: ['#1A1F71', '#2557D6'],
   },
   mastercardCard: {
     backgroundColor: '#EB001B',
-    backgroundGradient: ['#EB001B', '#F79E1B'],
+    borderColor: '#F79E1B', 
   },
   cardPreviewHeader: {
     flexDirection: 'row',
