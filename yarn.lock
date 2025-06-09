@@ -3072,7 +3072,6 @@ __metadata:
     react-native-vision-camera: ^4.6.4
     react-test-renderer: 19.0.0
     typescript: 5.0.4
-    vision-camera-code-scanner: ^0.2.0
   languageName: unknown
   linkType: soft
 
@@ -9711,17 +9710,6 @@ __metadata:
   version: 1.1.2
   resolution: "vary@npm:1.1.2"
   checksum: ae0123222c6df65b437669d63dfa8c36cee20a504101b2fcd97b8bf76f91259c17f9f2b4d70a1e3c6bbcee7f51b28392833adb6b2770b23b01abec84e369660b
-  languageName: node
-  linkType: hard
-
-"vision-camera-code-scanner@npm:^0.2.0":
-  version: 0.2.0
-  resolution: "vision-camera-code-scanner@npm:0.2.0"
-  peerDependencies:
-    react: "*"
-    react-native: "*"
-    react-native-vision-camera: ">=2.9.4"
-  checksum: d3cee8df7a04be024a1a183de739d7acb67e86214e56fc634b6d0a07fc7fcdc6da3b2f91b2ea276065f39847debe8855e88636d09d2ca4f7022b7c873b50b20d
   languageName: node
   linkType: hard
 
